@@ -1,1 +1,1 @@
-# ECE-1000-Fall-2024-Final-Project-
+# ECE-1000-Fall-2024-Final-Project-HeartbeatSensor
